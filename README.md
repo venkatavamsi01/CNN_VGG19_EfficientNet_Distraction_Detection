@@ -25,7 +25,8 @@ The project's methodology involves data collection, data pre-processing, and mod
 | EfficientNetB3    | 0.9170              | 0.9462                          |
 
 The project's results show that transfer learning with EfficientNetB3 achieved high accuracy in detecting distracted drivers. The custom CNN model also performed well, demonstrating the effectiveness of the project's architecture and data preparation techniques.
-PS: there is SOmething with the VGG19, This could be due to issues related to the model's architecture, hyperparameters, or data preprocessing. It's important to thoroughly investigate these aspects to enhance the model's performance( will be Updated soon).
+
+PS: there is Something wrong with the VGG19 model, This could be due to issues related to the model's architecture, hyperparameters, or data preprocessing. It's important to thoroughly investigate these aspects to enhance the model's performance( will be Updated soon).
 
 ## Conclusion
 
