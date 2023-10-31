@@ -1,6 +1,6 @@
 # Distracted Driver Detection
 
-![Image Dataset](/path/to/image.png)
+![Image Dataset](output.png)
 
 Distracted Driver Detection is a project aimed at enhancing road safety by using machine learning and computer vision techniques to detect distracted driving behaviors. This repository contains the code and documentation for the project.
 
