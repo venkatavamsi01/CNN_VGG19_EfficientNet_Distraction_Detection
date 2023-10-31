@@ -12,10 +12,6 @@ Distracted driving is a significant concern as it can lead to accidents, injurie
 
 The project uses a dataset from the State Farm Distracted Driver Detection Challenge on Kaggle. The dataset includes around 22,000 images, with a training set of around 17,000 images and a test set of around 5,000 images. Each image is labeled with one of 10 different types of distractions, such as texting, talking on the phone, or reaching behind.
 
-## Related Work
-
-In the related work section, we discuss the paper "Distracted Driver Recognizer with Simple and Efficient Convolutional Neural Network for Real-time System" by Duy-Linh Nguyen, Muhamad Dwisnanto Putro, and Kang-Hyun Jo. The paper explores a distracted driver recognition system based on an efficient Convolutional Neural Network (CNN).
-
 ## Methodology
 
 The project's methodology involves data collection, data pre-processing, and model training. Data augmentation techniques are used to increase the diversity of the training data. The models include a custom CNN, VGG19, and EfficientNetB3. Transfer learning is applied using pre-trained models.
@@ -32,12 +28,4 @@ The Distracted Driver Detection project holds significant promise for improving 
 
 Future development could include integrating the distracted driver detection system with other driving assistance systems and further increasing the accuracy of the detection system.
 
-## Contribution
 
-- [Your Name]: Describe your contributions here.
-- [Your Collaborator's Name]: Describe their contributions here.
-
-## References
-
-- [Paper 1 Title]: Link to the paper
-- [Paper 2 Title]: Link to the paper
